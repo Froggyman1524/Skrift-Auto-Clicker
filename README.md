@@ -1,6 +1,5 @@
 ![Skrift Information2](https://github.com/Froggyman1524/Skrift-Auto-Clicker/assets/82377105/b0f9fc0d-c3ef-4c34-863c-cd54caab2424)
-# AutoClicker V2.0
-
+# SkriftAutoClicker V0.10
 Skrift presents itself as a user-friendly auto-clicker. While it lacks a traditional user interface, it employs a straightforward "click-and-go" mechanism. Activating it requires just a single key press, typically F6, and utilizing it involves pressing the mouse button. Remarkably, Skrift can achieve speeds of up to one thousand clicks per minute (CPM).
 
 # Instructions
